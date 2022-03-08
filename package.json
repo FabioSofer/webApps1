@@ -1,0 +1,22 @@
+{
+  "name": "webapps1",
+  "version": "1.0.0",
+  "description": "my package file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabioSofer/webApps1.git"
+  },
+  "author": "Fabio Sofer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FabioSofer/webApps1/issues"
+  },
+  "homepage": "https://github.com/FabioSofer/webApps1#readme",
+  "dependencies": {
+    "dayjs": "^1.10.8"
+  }
+}
