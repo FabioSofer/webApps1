@@ -1,0 +1,11 @@
+
+aside,footer{
+    background-color: aliceblue;
+}
+.colored-text{
+    color: dimgray;
+    font-style: italic;
+}
+#table-head{
+    margin-top: 20em;
+}
