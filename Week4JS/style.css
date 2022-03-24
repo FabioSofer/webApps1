@@ -1,11 +1,6 @@
 
-aside,footer{
-    background-color: aliceblue;
-}
-.colored-text{
-    color: dimgray;
-    font-style: italic;
-}
-#table-head{
-    margin-top: 20em;
+
+.plusSign{
+    filter: invert(99%) sepia(71%) saturate(1437%) hue-rotate(168deg) brightness(75%) contrast(99%);
+    margin-bottom: 1em;
 }
